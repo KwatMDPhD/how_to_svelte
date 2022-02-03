@@ -11,7 +11,7 @@ Master programming skills take 4 steps:
 
 Initially, stay broad and make things work.
 Later, get deeper and spend as much time as needed for complete understanding.
-Aim for perfection, but _ship as often as possible_ because shipping is the _best_ way to grow.
+Aim for perfection, but _ship as often as possible_ because shipping is the **best** way to grow.
 
 ## Make the simplest svelte app
 
