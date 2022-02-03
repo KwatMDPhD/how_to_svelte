@@ -93,7 +93,7 @@ Set `Pages`
 
 ![Pages preferences](pages_preferences.png)
 
-Look at the deployment with private browsing (incognito), which does not cache.
+Look at the deployment with private browsing, which does not cache.
 
 ## Grow the app
 
@@ -117,7 +117,7 @@ Deploy
 npx gh-pages --dist build #--dotfiles
 ```
 
-If the update does not show up, clear cache or use private browsing (incognito), which does not cache.
+If the update does not show up, clear cache or use private browsing, which does not cache.
 
 Remember this rebuild-deploy sequence as `scripts.deploy` in `package.json`
 
