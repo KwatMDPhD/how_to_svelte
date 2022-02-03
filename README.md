@@ -161,7 +161,7 @@ Check `Pages`
 
 ---
 
-## Set ![Google Analytics](https://analytics.google.com)
+## Set [Google Analytics](https://analytics.google.com)
 
 Make a property.
 
