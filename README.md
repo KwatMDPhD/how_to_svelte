@@ -188,3 +188,9 @@ touch static/.nojekyll
 Do all of https://svelte.dev/tutorial/basics.
 
 Read all of https://kit.svelte.dev/docs.
+
+## Sources
+
+https://svelteland.github.io/svelte-kit-blog-demo/deply-to-github
+
+https://javascript.plainenglish.io/sveltekit-github-pages-4fe2844773de
