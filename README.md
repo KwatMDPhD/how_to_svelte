@@ -4,14 +4,14 @@ Svelte-static-website tutorial for busy perfectionists who want to learn everyth
 
 Master programming skills take 4 steps:
 
-1. Build something simple with it
-2. Add some features to this thing slowly, one-by-one, and taking time
-3. Re-learn this programming skill from scratch in depth by doing tutorials and reading documentations
-4. Refactor, extend, and grow this thing further more
+1. Build something simple with it.
+2. Add some features to this thing slowly, one-by-one, and taking time.
+3. Re-learn this programming skill from scratch in depth by doing tutorials and reading documentations.
+4. Refactor, extend, and grow this thing further more.
 
 Initially, stay broad and make things work.
 Later, get deeper and spend as much time as needed for complete understanding.
-Aim for perfection, but ship as often as possible.
+Aim for perfection, but _ship as often as possible_ because shipping is the _best_ way to grow.
 
 ## Make the simplest svelte app
 
