@@ -95,8 +95,6 @@ Set `Pages`
 
 Look at the deployment with private browsing (incognito), which does not cache.
 
----
-
 ## Grow the app
 
 Edit `src/routes/index.svelte`.
@@ -149,6 +147,8 @@ Update DNS
 Check `Pages`
 
 ![custom_domain](pages_custom_domain.png)
+
+---
 
 ## TODO
 
