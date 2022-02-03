@@ -159,6 +159,12 @@ Check `Pages`
 
 ![custom_domain](pages_custom_domain.png)
 
+Make `CNAME` with 1 line, the domain
+
+```bash
+echo "www.KwatMDPhD.com" > static/CNAME
+```
+
 ---
 
 ## Set [Google Analytics](https://analytics.google.com)
