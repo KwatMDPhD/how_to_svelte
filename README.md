@@ -2,7 +2,7 @@
 
 Svelte-static-website tutorial for busy perfectionists who want to learn everything :school_satchel:
 
-Master any programming skill is by 4 steps:
+Master programming skills take 4 steps:
 
 1. Build something simple with it
 2. Add some features to this thing slowly, one-by-one, and taking time
