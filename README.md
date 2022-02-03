@@ -2,6 +2,17 @@
 
 Svelte-static-website tutorial for busy perfectionists who want to learn everything :school_satchel:
 
+Master any programming skill is by 4 steps:
+
+1. Build something simple with it
+2. Add some features to this thing slowly, one-by-one, and taking time
+3. Re-learn this programming skill from scratch in depth by doing tutorials and reading documentations
+4. Refactor, extend, and grow this thing further more
+
+Initially, stay broad and make things work.
+Later, get deeper and spend as much time as needed for complete understanding.
+Aim for perfection, but ship as often as possible.
+
 ## Make the simplest svelte app
 
 Make the most minimal app (select `Skeleton project` and no to everything else)
@@ -149,6 +160,14 @@ Check `Pages`
 ![custom_domain](pages_custom_domain.png)
 
 ---
+
+## Set ![Google Analytics](https://analytics.google.com)
+
+Make a property.
+
+Insert `Global site tag` into `<head>`
+
+![google_analytics](google_analytics.png)
 
 ## TODO
 
