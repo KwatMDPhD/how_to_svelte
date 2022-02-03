@@ -1,4 +1,4 @@
-# svelte_static_website_tutorial
+# how_to_svelte
 
 Svelte-static-website tutorial for busy perfectionists who want to learn everything :school_satchel:
 
