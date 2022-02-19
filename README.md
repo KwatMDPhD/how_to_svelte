@@ -17,19 +17,19 @@ Aim for perfection, but _ship as often as possible_ because shipping is the **be
 
 Make the most minimal app (select `Skeleton project` and no to everything else)
 
-```
+```bash
 npm init svelte@next
 ```
 
 Install dependencies
 
-```
+```bash
 npm install
 ```
 
 Run the app
 
-```
+```bash
 npm run dev -- --open
 ```
 
@@ -37,21 +37,21 @@ npm run dev -- --open
 
 Build the app
 
-```
+```bash
 ls -l .svelte-kit
 ```
 
-```
+```bash
 npm run build
 ```
 
-```
+```bash
 ls -l .svelte-kit
 ```
 
 Preview the build
 
-```
+```bash
 npm run preview -- --open
 ```
 
@@ -61,7 +61,7 @@ Read https://kit.svelte.dev/docs#adapters-supported-environments-static-sites an
 
 Install `adapter-static` (for only during development)
 
-```
+```bash
 npm install --save-dev @sveltejs/adapter-static@next
 ```
 
@@ -74,25 +74,25 @@ Edit `svelte.config.js`
 
 Build
 
-```
+```bash
 ls -l .
 ```
 
-```
+```bash
 npm run build
 ```
 
-```
+```bash
 ls -l .
 ```
 
 Use `gh-pages` to deploy the app to `gh-pages` branch:
 
-```
+```bash
 npm install --save-dev gh-pages
 ```
 
-```
+```bash
 npx gh-pages --dist build
 ```
 
@@ -112,19 +112,19 @@ Edit `src/routes/index.svelte`.
 
 Remove old build
 
-```
+```bash
 rm -fr build
 ```
 
 Build
 
-```
+```bash
 npm run build
 ```
 
 Deploy
 
-```
+```bash
 npx gh-pages --dist build #--dotfiles
 ```
 
@@ -141,7 +141,7 @@ Edit more.
 
 Run the sequence
 
-```
+```bash
 npm run deploy
 ```
 
@@ -161,7 +161,7 @@ Check `Pages`
 
 Make `CNAME` with 1 line, the domain
 
-```
+```bash
 echo "www.KwatMDPhD.com" > static/CNAME
 ```
 
@@ -179,7 +179,7 @@ Insert `Global site tag` into `<head>`
 
 Carry `.nojekyll` so tha GitHub nojekyll does not mess with this app
 
-```
+```bash
 touch static/.nojekyll
 ```
 
