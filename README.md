@@ -1,7 +1,5 @@
 # how_to_svelte
 
-Svelte-static-website tutorial for busy perfectionists who want to learn everything :school_satchel:
-
 Master programming skills take 4 steps:
 
 1. Build something simple with it.
